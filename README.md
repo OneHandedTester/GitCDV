@@ -1,6 +1,6 @@
 # GitCDV
 
-> [!NOTE]
+
 > 10 ulubionych komend w Linuxie
 
 1. clear - czyszczenie ekranu konsoli
