@@ -2,6 +2,7 @@
 
 > [!NOTE]
 > 10 ulubionych komend w Linuxie
+
 1. clear - czyszczenie ekranu konsoli
 2. mkdir - tworzenie nowego katalogu
 3. rm - usuwanie pliku
